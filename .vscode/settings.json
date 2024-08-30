@@ -3,7 +3,7 @@
     "**/.DS_Store": true,
     "**/.git": true,
     "**/.jest": true,
-    "**/dist": true,
+    "**/dist": false,
     "**/node_modules": true,
     "**/package-lock.json": true,
     "**/*.tsbuildinfo": true
@@ -13,5 +13,5 @@
   },
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
-  },
+  }
 }
